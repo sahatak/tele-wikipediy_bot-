@@ -6,7 +6,7 @@ from aiogram.filters import CommandStart
 import asyncio
 from googletrans import Translator, LANGUAGES
 
-API_TOKEN = "8265813451:AAEhmk121-Jxj5Uo0ckoMNLrIbkxgqBbj9XBbg"
+API_TOKEN = "your TOKEN"
 logging.basicConfig(level=logging.INFO)
 
 bot = Bot(token=API_TOKEN)
